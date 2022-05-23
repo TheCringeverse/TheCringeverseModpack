@@ -1,0 +1,13 @@
+config/
+crash-reports/
+logs/
+mods/disabled
+PortableGit/
+saves/
+screenshots/
+schematics/
+
+/*.json
+/*.txt
+servers.dat
+servers.dat_old
