@@ -3,11 +3,12 @@ crash-reports/
 logs/
 mods/disabled
 PortableGit/
+resourcepacks/Copper Legacy Pack.zip
 saves/
 screenshots/
 schematics/
 
+
 /*.json
 /*.txt
-servers.dat
-servers.dat_old
+/*.dat*
