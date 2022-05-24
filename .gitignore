@@ -1,12 +1,11 @@
-config/
-crash-reports/
-logs/
-mods/disabled
-PortableGit/
-resourcepacks/Copper Legacy Pack.zip
-saves/
-screenshots/
-schematics/
+/crash-reports/
+/logs/
+/mods/disabled
+/PortableGit/
+/resourcepacks/Copper Legacy Pack.zip
+/saves/
+/screenshots/
+/schematics/
 
 
 /*.json
