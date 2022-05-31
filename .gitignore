@@ -1,14 +1,8 @@
-/crash-reports/
-/Distant_Horizons_server_data/
-/logs/
-/mods/disabled
-/PortableGit/
-/resourcepacks/Copper Legacy Pack.zip
-/saves/
-/screenshots/
-/schematics/
+*
+!/config/
+!/emotes/
+!/mods/
+!/resourcepacks/
 
-
-/*.json
-/*.txt
-/*.dat*
+!/.gitignore
+!/UPDATE.bat
