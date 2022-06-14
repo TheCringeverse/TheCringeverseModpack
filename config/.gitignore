@@ -2,3 +2,6 @@
 !.gitignore
 !/defaultoptions/
 !bcc-common.toml
+!xaerominimap.txt
+!xaeroworldmap.txt
+!DistantHorizons (NO ERROR SPAM).toml
